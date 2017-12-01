@@ -1,0 +1,5 @@
+equifax\bin\Geo.class
+equifax\bin\Company.class
+equifax\bin\User.class
+equifax\bin\Address.class
+equifax\test\UserTest.class
